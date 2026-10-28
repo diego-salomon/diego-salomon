@@ -8,6 +8,7 @@ Now I'm into AI, automation and code. I'm not a software engineer. I build small
 
 | Project | What it does |
 |---|---|
+| [job-search-kit](https://github.com/diego-salomon/job-search-kit) | The system I built to look for a job after my department closed, without my data, so anyone can run it with Claude Code. It interviews you, writes your CV, tunes your LinkedIn, runs the searches, prepares one folder per application and keeps the tracker. |
 | [harakiri-ad-factory](https://github.com/diego-salomon/harakiri-ad-factory) | Turns a photo and a voice into a talking 3D bust for a film ad. Blender runs headless, the jaw follows the audio, and out comes a ProRes clip with transparency, ready to edit. |
 | [losbatracios-web](https://github.com/diego-salomon/losbatracios-web) | The site for my film, [losbatracios.com](https://losbatracios.com). Spanish and English from one build script, proper SEO, a mailing list on a Cloudflare Worker, and a short link per channel so I can see where people come from. |
 | [caxi-vaxi](https://github.com/diego-salomon/caxi-vaxi) | I collect mid-century furniture and was losing hours on auction catalogues. This reads 13 sources, from Madrid auction houses to eBay and 1stDibs, and scores each lot against my taste. |
