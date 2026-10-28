@@ -1,6 +1,6 @@
 # Hi, I'm Diego 👋
 
-I spent seven years keeping the world's most fragile shipments moving. At World Courier I led a 27-person international team and worked from a global control tower for cell and gene therapy deliveries. Each one was for a single patient and couldn't be replaced. I learned to spot problems before they turned into emergencies, and in seven years nothing was lost on my watch.
+I spent seven years keeping the world's most fragile shipments moving. At World Courier I led a 27-person international team and worked from a global control tower for cell and gene therapy deliveries. Each one was for a single patient and couldn't be replaced. I learned to spot problems before they turned into emergencies.
 
 These days I build the tools I wish I'd had back then. I'm not a software engineer. I'm an operator who likes taking a messy, repetitive problem and turning it into something that runs on its own, with Claude, Codex and Python as my co-pilots. Everything here is something I use in real life.
 
@@ -20,10 +20,10 @@ In progress 🎮 **Pocket Landro**, a management and idle game for mobile. I'm d
 
 ## 🎬 Off the clock, I make films
 
-My films are about the small, hard-to-name ways people relate to each other.
+My films are about the small ways people relate to each other.
 
-- **[Los Batracios](https://losbatracios.com)** (2025). I wrote, produced and directed it on a €25k budget. It won the **Audience Award** and a Jury Honorable Mention at Mammoth Lakes, then went on to Nòt Film Fest, Molodist Kyiv, ELCO and VENEZCINE México.
-- **[Harakiri, Me Haces Falta](https://letterboxd.com/film/harakiri-i-miss-you/)** (2025). I co-wrote it and play the lead. It won **Best First Feature** at Oldenburg, and The Hollywood Reporter compared it to Cassavetes. It was the final film of Enrique San Francisco, and it's streaming on Filmin.
+- **[Los Batracios](https://losbatracios.com)** (2025). I wrote, produced and directed it on a tight budget. It won the **Audience Award** and a Jury Honorable Mention at Mammoth Lakes, then went on to Nòt Film Fest, Molodist Kyiv, ELCO and VENEZCINE México.
+- **[Harakiri, Me Haces Falta](https://letterboxd.com/film/harakiri-i-miss-you/)** (2025). I co-wrote it and play the lead. It won **Best First Feature** at Oldenburg, and The Hollywood Reporter compared it to Cassavetes. It was the final film of spanish cult actor Enrique San Francisco, and it's streaming on Filmin.
 
 I studied film at Boston University, and I've worked four Olympic Games as a broadcast operator for Olympic Broadcasting Services.
 
