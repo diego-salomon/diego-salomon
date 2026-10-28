@@ -1,36 +1,37 @@
-# Hi, I'm Diego 👋
+### Hi, I'm Diego
 
-I spent seven years keeping the world's most fragile shipments moving. At World Courier I led a 27-person international team and worked from a global control tower for cell and gene therapy deliveries. Each one was for a single patient and couldn't be replaced. I learned to spot problems before they turned into emergencies.
+For seven years I ran international, time-critical logistics at World Courier. I led a 27-person team and worked in the global control tower for cell and gene therapy shipments, where every box was for one patient and couldn't be replaced. When a shipment broke at 2am, I was the one who sorted it out and kept it moving. None went missing on my watch.
 
-These days I build the tools I wish I'd had back then. I'm not a software engineer. I'm an operator who likes taking a messy, repetitive problem and turning it into something that runs on its own, with Claude, Codex and Python as my co-pilots. Everything here is something I use in real life.
+Now I'm into AI, automation and code. I'm not a software engineer. I build small tools with Claude, Codex and Python when something in my own life is slow or repetitive, and I use every one of them myself. Most of the code comments are in Spanish, because that's how I think.
 
-## 🛠️ Things I've built
+### What's here
 
-| | Project | What it does |
-|---|---|---|
-| 🎭 | **[harakiri-ad-factory](https://github.com/diego-salomon/harakiri-ad-factory)** | Turns a photo and a voice into a talking 3D bust for a film ad. Meshy → Blender (headless, jaw synced to audio) → Voicebox voice cloning → ProRes with alpha → final 9:16 cut. |
-| 🐸 | **[losbatracios-web](https://github.com/diego-salomon/losbatracios-web)** | [losbatracios.com](https://losbatracios.com), the bilingual site for my film. Static build, full SEO, a Cloudflare Worker mailing list, and a short link per channel so I know where the audience comes from. |
-| 🪑 | **[caxi-vaxi](https://github.com/diego-salomon/caxi-vaxi)** | Reads 13 vintage furniture and art sources, from Madrid auction houses to eBay and 1stDibs, and scores every lot against my taste. Polite scraping, official APIs where they exist. |
-| 📞 | **[grabar-llamada](https://github.com/diego-salomon/grabar-llamada)** | A native macOS app in Swift. Double-click, it records the call, and you get the transcript. Everything stays on the Mac. |
-| 🎙️ | **[diario-local](https://github.com/diego-salomon/diario-local)** | My voice journal becomes text on its own (MLX Whisper, no cloud), and every morning I get one email with what matters today and a page from the books I'm reading. |
-| ⚡ | **[luz-monitor](https://github.com/diego-salomon/luz-monitor)** | Checks my electricity bill every month against the regulated price and real offers, and tells me if I'm overpaying. |
-| 🎟️ | **[harakiri](https://github.com/diego-salomon/harakiri)** | The landing page behind the QR codes on our film's posters, for reviews and the mailing list. |
+| Project | What it does |
+|---|---|
+| [harakiri-ad-factory](https://github.com/diego-salomon/harakiri-ad-factory) | Turns a photo and a voice into a talking 3D bust for a film ad. Blender runs headless, the jaw follows the audio, and out comes a ProRes clip with transparency, ready to edit. |
+| [losbatracios-web](https://github.com/diego-salomon/losbatracios-web) | The site for my film, [losbatracios.com](https://losbatracios.com). Spanish and English from one build script, proper SEO, a mailing list on a Cloudflare Worker, and a short link per channel so I can see where people come from. |
+| [caxi-vaxi](https://github.com/diego-salomon/caxi-vaxi) | I collect mid-century furniture and was losing hours on auction catalogues. This reads 13 sources, from Madrid auction houses to eBay and 1stDibs, and scores each lot against my taste. |
+| [grabar-llamada](https://github.com/diego-salomon/grabar-llamada) | A Mac app in Swift. Double-click it, talk, stop, and the transcript is waiting in your notes. Nothing leaves the computer. |
+| [diario-local](https://github.com/diego-salomon/diario-local) | I keep a voice journal. Each note turns into text on my Mac (Whisper on Apple Silicon), and every morning one email tells me what matters that day, with a page from the books I'm reading. |
+| [luz-monitor](https://github.com/diego-salomon/luz-monitor) | Once a month it checks my electricity bill against the regulated price and a few real offers, and warns me if something changed that I didn't ask for. |
+| [harakiri](https://github.com/diego-salomon/harakiri) | The page behind the QR codes on our film posters. People leave a review or join the mailing list, and every scan is logged by poster. |
 
-In progress 🎮 **Pocket Landro**, a management and idle game for mobile. I'm designing the economy from real measurements, and the design docs and decision records come before any code.
+I'm also building a management game for mobile, Pocket Landro. It's still in the design stage and not public yet.
 
-## 🎬 Off the clock, I make films
+### Off the clock I make films
 
-My films are about the small ways people relate to each other.
+They're mostly about how people relate to each other, the small things that are hard to name.
 
-- **[Los Batracios](https://losbatracios.com)** (2025). I wrote, produced and directed it on a tight budget. It won the **Audience Award** and a Jury Honorable Mention at Mammoth Lakes, then went on to Nòt Film Fest, Molodist Kyiv, ELCO and VENEZCINE México.
-- **[Harakiri, Me Haces Falta](https://letterboxd.com/film/harakiri-i-miss-you/)** (2025). I co-wrote it and play the lead. It won **Best First Feature** at Oldenburg, and The Hollywood Reporter compared it to Cassavetes. It was the final film of spanish cult actor Enrique San Francisco, and it's streaming on Filmin.
+[*Los Batracios*](https://losbatracios.com) (2025) is a feature I wrote, produced and directed for about €25k. It won the Audience Award at the Mammoth Lakes Film Festival and played at Nòt Film Fest, Molodist in Kyiv, ELCO and VENEZCINE México.
 
-I studied film at Boston University, and I've worked four Olympic Games as a broadcast operator for Olympic Broadcasting Services.
+[*Harakiri, Me Haces Falta*](https://letterboxd.com/film/harakiri-i-miss-you/) (2025) I co-wrote and play the lead in. It won Best First Feature at Oldenburg, and The Hollywood Reporter compared it to Cassavetes. It was Enrique San Francisco's last film, and it's on Filmin.
 
-## 🧰 Toolbox
+I studied film at Boston University. I've also worked four Olympic Games for Olympic Broadcasting Services.
 
-`Python` `Swift` `HTML/CSS` `Cloudflare Pages & Workers` `Blender` `FFmpeg` `Whisper / MLX` `Claude` `Codex` `ChatGPT`
+### Tools I use
 
-## 📫 Say hi
+Python, Swift, HTML and CSS, Cloudflare Pages and Workers, Blender, FFmpeg, Whisper (MLX), Claude, Codex, ChatGPT.
 
-[LinkedIn](https://www.linkedin.com/in/diegosalomon) · Madrid 🇪🇸 · Spanish, English, French
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/diegosalomon). I'm in Madrid and work in Spanish, English and French.
