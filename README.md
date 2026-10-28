@@ -1,6 +1,6 @@
 ### Hi, I'm Diego
 
-For seven years I ran international, time-critical logistics at World Courier. I led a 27-person team and worked in the global control tower for cell and gene therapy shipments, where every box was for one patient and couldn't be replaced. When a shipment broke at 2am, I was the one who sorted it out and kept it moving. None went missing on my watch.
+For seven years I ran international, time-critical logistics at World Courier. I led a 27-person team and worked in the global control tower for cell and gene therapy shipments, where every box was for one patient and couldn't be replaced. When a shipment broke at 2am, I was the one who sorted it out and kept it moving.
 
 Now I'm into AI, automation and code. I'm not a software engineer. I build small tools with Claude, Codex and Python when something in my own life is slow or repetitive, and I use every one of them myself. Most of the code comments are in Spanish, because that's how I think.
 
@@ -8,7 +8,7 @@ Now I'm into AI, automation and code. I'm not a software engineer. I build small
 
 | Project | What it does |
 |---|---|
-| [job-search-kit](https://github.com/diego-salomon/job-search-kit) | The system I built to look for a job after my department closed, without my data, so anyone can run it with Claude Code. It interviews you, writes your CV, tunes your LinkedIn, runs the searches, prepares one folder per application and keeps the tracker. |
+| [job-search-kit](https://github.com/diego-salomon/job-search-kit) | A job search run with Claude Code. It onboards you, builds your CV and LinkedIn, tracks every new posting and prepares each application. |
 | [harakiri-ad-factory](https://github.com/diego-salomon/harakiri-ad-factory) | Turns a photo and a voice into a talking 3D bust for a film ad. Blender runs headless, the jaw follows the audio, and out comes a ProRes clip with transparency, ready to edit. |
 | [losbatracios-web](https://github.com/diego-salomon/losbatracios-web) | The site for my film, [losbatracios.com](https://losbatracios.com). Spanish and English from one build script, proper SEO, a mailing list on a Cloudflare Worker, and a short link per channel so I can see where people come from. |
 | [caxi-vaxi](https://github.com/diego-salomon/caxi-vaxi) | I collect mid-century furniture and was losing hours on auction catalogues. This reads 13 sources, from Madrid auction houses to eBay and 1stDibs, and scores each lot against my taste. |
@@ -21,11 +21,11 @@ I'm also building a management game for mobile, Pocket Landro. It's still in the
 
 ### Off the clock I make films
 
-They're mostly about how people relate to each other, the small things that are hard to name.
+My films are about the small ways people relate to each other.
 
-[*Los Batracios*](https://losbatracios.com) (2025) is a feature I wrote, produced and directed for about €25k. It won the Audience Award at the Mammoth Lakes Film Festival and played at Nòt Film Fest, Molodist in Kyiv, ELCO and VENEZCINE México.
+[*Los Batracios*](https://losbatracios.com) (2025) is a feature I wrote, produced and directed on a tight budget. It won the Audience Award at the Mammoth Lakes Film Festival and played at Nòt Film Fest, Molodist in Kyiv, ELCO and VENEZCINE México.
 
-[*Harakiri, Me Haces Falta*](https://letterboxd.com/film/harakiri-i-miss-you/) (2025) I co-wrote and play the lead in. It won Best First Feature at Oldenburg, and The Hollywood Reporter compared it to Cassavetes. It was Enrique San Francisco's last film, and it's on Filmin.
+[*Harakiri, Me Haces Falta*](https://letterboxd.com/film/harakiri-i-miss-you/) (2025) I co-wrote and play the lead in. It won Best First Feature at Oldenburg, and The Hollywood Reporter compared it to Cassavetes. It was the final film of Spanish cult actor Enrique San Francisco, and it's on Filmin.
 
 I studied film at Boston University. I've also worked four Olympic Games for Olympic Broadcasting Services.
 
