@@ -12,6 +12,7 @@ Now I'm into AI, automation and code. I'm not a software engineer. I build small
 |---|---|
 | [presupuesto](https://github.com/diego-salomon/presupuesto) | A white-label budget tracker for small businesses. You see spend against the monthly budget during the month, with a warning before a category goes over. [Live demo](https://diego-salomon.github.io/presupuesto/), React and TypeScript. |
 | [pipeline](https://github.com/diego-salomon/pipeline) | A white-label sales CRM. Track leads through a configurable funnel from your phone. [Live demo](https://diego-salomon.github.io/pipeline/), React and TypeScript. |
+| [agenda](https://github.com/diego-salomon/agenda) | A white-label appointment-booking app. Patients book from their phone against a live availability grid; the business runs the week from an admin panel. [Live demo](https://diego-salomon.github.io/agenda/), React and TypeScript. |
 
 **Apps and tools**
 
