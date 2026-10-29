@@ -8,6 +8,8 @@ Now I'm into AI, automation and code. I'm not a software engineer. I build small
 
 | Project | What it does |
 |---|---|
+| [presupuesto](https://github.com/diego-salomon/presupuesto) | A white-label budget tracker for small businesses. You see spend against the monthly budget during the month, with a warning before a category goes over. [Live demo](https://diego-salomon.github.io/presupuesto/), React and TypeScript. |
+| [pipeline](https://github.com/diego-salomon/pipeline) | A white-label sales CRM. Track leads through a configurable funnel from your phone, on localStorage for a demo or a real Supabase backend. Work in progress. |
 | [job-search-kit](https://github.com/diego-salomon/job-search-kit) | A job search run with Claude Code. It onboards you, builds your CV and LinkedIn, tracks every new posting and prepares each application. |
 | [harakiri-ad-factory](https://github.com/diego-salomon/harakiri-ad-factory) | Turns a photo and a voice into a talking 3D bust for a film ad. Blender runs headless, the jaw follows the audio, and out comes a ProRes clip with transparency, ready to edit. |
 | [losbatracios-web](https://github.com/diego-salomon/losbatracios-web) | The site for my film, [losbatracios.com](https://losbatracios.com). Spanish and English from one build script, proper SEO, a mailing list on a Cloudflare Worker, and a short link per channel so I can see where people come from. |
